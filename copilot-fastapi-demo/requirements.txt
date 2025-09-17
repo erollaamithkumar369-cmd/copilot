@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-msal
-requests
-psutil
-python-multipart
-gunicorn
